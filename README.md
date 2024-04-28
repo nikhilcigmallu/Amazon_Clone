@@ -30,4 +30,4 @@ This project is for demonstration purposes, and contributions are accepted. Howe
 
 
 ## Credits
-Project inspired by Amazon's website designa and developed by [Nikhil Cigmallu](https://github.com/nikhilcigmallu).
+Project inspired by Amazon's website design and developed by [Nikhil Cigmallu](https://github.com/nikhilcigmallu).
