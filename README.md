@@ -18,7 +18,7 @@ This project is an Amazon clone built using HTML and CSS. It mimics the look and
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
+![Homepage](homepage.png)
 *Homepage of the Amazon clone*
 
 
