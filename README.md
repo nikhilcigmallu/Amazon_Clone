@@ -21,23 +21,6 @@ This project is an Amazon clone built using HTML and CSS. It mimics the look and
 ![Homepage](screenshots/homepage.png)
 *Homepage of the Amazon clone*
 
-## Getting Started
-
-To view this project locally, follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/nikhilcigmallu/Amazon_Clone.git
-   cd amazon-clone
-amazon-clone/
-│
-├── index.html
-├── css/
-│   ├── styles.css
-│   └── normalize.css
-├── img/
-│   └── (images used in the project)
-├── README.md
 
 ## Version Control
 This project is version controlled using Git. The repository is hosted on GitHub, allowing for easy collaboration and version tracking.
