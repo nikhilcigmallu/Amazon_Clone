@@ -1,16 +1,50 @@
-# Amazon Clone
+# Amazon Clone Project
 
-This project is a clone of the Amazon website created using HTML and CSS.
-
+This project is an Amazon clone built using HTML and CSS. It mimics the look and feel of the Amazon website to demonstrate front-end web development skills.
 
 ## Features
 
-- Replica of the Amazon website UI.
-- Implemented using HTML and CSS.
+- **Homepage**: Displays a layout similar to Amazon's homepage with navigation, product listings, and footer.
+  
+- **Product Listing**: Shows various products with images, descriptions, and pricing.
 
-## Demo
+- **Responsive Design**: Utilizes responsive design techniques to ensure the website looks good on different screen sizes.
 
-You can see a live demo of the project [here](https://nikhilcigmallu.github.io/Amazon_Clone/).
+## Technologies Used
+
+- HTML5: Structure of the web pages.
+  
+- CSS3: Styling and layout of the web pages.
+
+## Screenshots
+
+![Homepage](screenshots/homepage.png)
+*Homepage of the Amazon clone*
+
+## Getting Started
+
+To view this project locally, follow these steps:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/nikhilcigmallu/Amazon_Clone.git
+   cd amazon-clone
+amazon-clone/
+│
+├── index.html
+├── css/
+│   ├── styles.css
+│   └── normalize.css
+├── img/
+│   └── (images used in the project)
+├── README.md
+
+## Version Control
+This project is version controlled using Git. The repository is hosted on GitHub, allowing for easy collaboration and version tracking.
+
+## Contributing
+This project is for demonstration purposes, and contributions are accepted. However, feel free to clone and fork the repository and modify the code as needed.
 
 
-
+## Credits
+Project inspired by Amazon's website designa and developed by Nikhil Cigmallu(https://github.com/nikhilcigmallu).
